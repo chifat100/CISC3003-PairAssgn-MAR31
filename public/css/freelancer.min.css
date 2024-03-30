@@ -223,6 +223,10 @@ section.success {
 section.success2 {
     background: #ffffff;
     color: #000000;
+
+    .star-light{
+        border-color: #000000;
+    }
     p{
         text-align: center;
 
